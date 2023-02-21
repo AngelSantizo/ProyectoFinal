@@ -1,0 +1,37 @@
+﻿Descripción del problema: Proyecto Final
+
+
+* Identificar la edad del usuario:
+
+
+-Incluimos en el programa un prompt que nos permita identificar en qué rango se encuentra el usuario para hacer el recargo debido con el porcentaje correcto, acordarse de pasar este prompt a un dato numérico.
+
+
+* Identificar si tiene cónyuge y la edad del mism@:
+
+
+-Incluimos otro prompt que haga una pregunta al usuario si tiene actualmente cónyuge, y que ingrese la edad de el/ella, e igualmente según la edad lo diversificamos según el rango correcto.
+
+
+* Identificar si tiene hijos:
+
+
+-Se le pregunta al usuario si cuenta con hijos/hijas, además de la cantidad, ésta cantidad será multiplicada según el porcentaje devengado.
+
+
+* Identificar el salario que gana al mes:
+
+
+-Se le pregunta al usuario el salario devengado a final de cada mes, se tomará un porcentaje del 5% según la cantidad del mismo.
+
+
+* Identificar la cantidad de terrenos que cuenta:
+
+
+-Se le pregunta al usuario si cuenta con terrenos, que coloque la cantidad, y según esta cantidad se multiplica por el 35%.
+
+
+Hay muchas más variables a considerar al momento de programar tanto en la sintaxis y lógica que conlleva realizar dichos procesos en la toma de decisiones del programa según el ingreso de datos por parte del usuario, debemos prevenir futuros errores que probablemente podrían esperarse, pero estas son las condiciones básicas que son necesarias a identificar al momento de llegar al resultado final, que es, realizar la cotización.
+
+
+Para la puntuación extra se trabajó el código se trabajó en un archivo propio, haciendo todo el código desde cero, poniendo a prueba a mi persona a llegar a dicha solución por ideas propias, de antemano se agradece el apoyo con el código de apoyo.
