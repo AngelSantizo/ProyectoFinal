@@ -1,4 +1,4 @@
-var verirficacion = false;
+var verirficacion = false;// hacemos una condicional para hacer el ciclo
 const PrecioBase = 2000; //precio base del plan
 var precioFinal = 0;
 
